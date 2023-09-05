@@ -1,0 +1,521 @@
+Age,Gender,Relationship_status,living_with_your_family,current_living_place,currently_studying,sleep_time,internet_use_time,exercise_time,smoker,relationship_with_friends,physical_disabilities,depressed
+21-25,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+21-25,Male,Single,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,in a relationship,Yes,Village,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,in a relationship,No,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,3,No,1
+21-25,Male,Single,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,Yes,2,No,1
+21-25,Male,Single,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+16-20,Female,Single,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+21-25,Male,in a relationship,No,City,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,No,3,No,0
+21-25,Male,Single,No,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Female,Single,Yes,City,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,No,3,No,0
+21-25,Male,Single,Yes,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,2,No,0
+21-25,Male,Single,No,City,Masters,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Female,Single,Yes,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,married,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+21-25,Male,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,more than 60 minutes,No,2,No,0
+21-25,Male,in a relationship,Yes,City,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,in a relationship,Yes,Village,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+21-25,Male,in a relationship,Yes,City,Graduated,7-9 hours,2-3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,in a relationship,No,City,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,3,No,0
+21-25,Male,in a relationship,Yes,Village,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,Yes,2,No,0
+21-25,Male,Single,Yes,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,3,Yes,0
+16-20,Male,Single,Yes,City,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+16-20,Male,Single,Yes,City,O Levels(SSC),bellow 7 hours,More than 3 hours,less than 30 minutes,No,3,Yes,1
+26+,Male,married,Yes,Village,Under Graduate,bellow 7 hours,2-3 hours,less than 30 minutes,No,2,No,0
+16-20,Male,Single,Yes,City,A Levels(HSC),more than 9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,Single,Yes,Village,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,Yes,3,No,0
+11-15,Male,Single,Yes,City,O Levels(SSC),7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,0
+21-25,Male,Single,Yes,City,Under Graduate,bellow 7 hours,2-3 hours,less than 30 minutes,No,3,No,0
+21-25,Female,Single,Yes,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Male,in a relationship,Yes,Village,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,3,No,0
+21-25,Male,Single,Yes,City,Graduated,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Male,in a relationship,No,City,Graduated,7-9 hours,2-3 hours,less than 30 minutes,No,2,No,0
+21-25,Male,in a relationship,Yes,City,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,0
+21-25,Male,Single,Yes,City,Graduated,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Male,Single,Yes,Village,Graduated,7-9 hours,More than 3 hours,more than 60 minutes,No,3,No,1
+21-25,Male,Single,Yes,City,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Male,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Male,Single,No,City,Graduated,7-9 hours,2-3 hours,less than 30 minutes,No,2,No,0
+21-25,Male,in a relationship,Yes,City,Under Graduate,bellow 7 hours,More than 3 hours,30-60 minutes,No,3,No,1
+21-25,Male,Single,No,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,Single,Yes,City,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,Single,Yes,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+26+,Female,married,Yes,City,Graduated,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+16-20,Female,Single,Yes,City,O Levels(SSC),7-9 hours,2-3 hours,less than 30 minutes,No,3,No,0
+16-20,Female,in a relationship,Yes,City,O Levels(SSC),7-9 hours,2-3 hours,less than 30 minutes,No,3,No,0
+16-20,Female,Single,No,City,O Levels(SSC),7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+21-25,Male,Single,Yes,City,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+16-20,Female,Single,Yes,City,O Levels(SSC),7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,0
+21-25,Male,married,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,Yes,3,No,1
+21-25,Male,Single,No,Village,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+16-20,Female,Single,Yes,City,O Levels(SSC),7-9 hours,2-3 hours,less than 30 minutes,No,2,No,0
+16-20,Female,in a relationship,Yes,City,O Levels(SSC),more than 9 hours,bellow 2 hours,less than 30 minutes,No,1,No,1
+11-15,Female,Single,Yes,City,O Levels(SSC),bellow 7 hours,2-3 hours,less than 30 minutes,No,3,No,0
+16-20,Female,in a relationship,Yes,City,O Levels(SSC),bellow 7 hours,2-3 hours,less than 30 minutes,No,1,No,1
+21-25,Male,in a relationship,Yes,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,3,No,1
+16-20,Female,Single,Yes,City,O Levels(SSC),bellow 7 hours,2-3 hours,less than 30 minutes,No,3,Yes,1
+16-20,Female,Single,Yes,City,O Levels(SSC),7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,0
+16-20,Female,Single,Yes,City,O Levels(SSC),7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+16-20,Female,Single,Yes,City,O Levels(SSC),7-9 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+16-20,Female,Single,Yes,City,O Levels(SSC),7-9 hours,More than 3 hours,less than 30 minutes,No,2,Yes,1
+16-20,Female,Single,Yes,City,O Levels(SSC),7-9 hours,bellow 2 hours,less than 30 minutes,No,2,No,1
+21-25,Male,Single,No,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,in a relationship,Yes,Village,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+16-20,Female,Single,Yes,City,A Levels(HSC),more than 9 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+16-20,Female,Single,Yes,City,A Levels(HSC),more than 9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,married,Yes,Village,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,Yes,3,No,0
+16-20,Male,Single,No,City,A Levels(HSC),more than 9 hours,More than 3 hours,30-60 minutes,No,2,No,1
+26+,Female,married,No,City,Masters,7-9 hours,bellow 2 hours,less than 30 minutes,No,1,No,1
+21-25,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+26+,Female,in a relationship,No,City,A Levels(HSC),more than 9 hours,bellow 2 hours,less than 30 minutes,No,1,No,1
+16-20,Female,in a relationship,Yes,City,A Levels(HSC),more than 9 hours,More than 3 hours,less than 30 minutes,Yes,3,No,1
+16-20,Female,Single,Yes,Village,O Levels(SSC),more than 9 hours,2-3 hours,less than 30 minutes,No,3,No,0
+16-20,Female,in a relationship,Yes,City,A Levels(HSC),more than 9 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+16-20,Female,Single,Yes,City,A Levels(HSC),more than 9 hours,2-3 hours,less than 30 minutes,No,3,No,0
+21-25,Female,in a relationship,No,City,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,3,No,1
+16-20,Female,in a relationship,Yes,Village,A Levels(HSC),more than 9 hours,bellow 2 hours,30-60 minutes,No,3,No,0
+16-20,Female,married,Yes,Village,A Levels(HSC),more than 9 hours,bellow 2 hours,less than 30 minutes,No,2,No,1
+21-25,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,1
+26+,Female,in a relationship,No,City,Graduated,bellow 7 hours,More than 3 hours,30-60 minutes,No,2,No,1
+16-20,Male,in a relationship,No,Village,A Levels(HSC),7-9 hours,2-3 hours,more than 60 minutes,Yes,2,No,0
+26+,Male,married,Yes,Village,A Levels(HSC),more than 9 hours,bellow 2 hours,more than 60 minutes,Yes,3,No,0
+21-25,Female,divorced,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,in a relationship,Yes,Village,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,3,No,0
+21-25,Female,in a relationship,No,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,Yes,1
+16-20,Male,in a relationship,Yes,City,A Levels(HSC),more than 9 hours,More than 3 hours,less than 30 minutes,Yes,3,No,0
+21-25,Male,Single,Yes,City,Under Graduate,bellow 7 hours,More than 3 hours,30-60 minutes,No,2,No,0
+26+,Male,married,No,City,Graduated,7-9 hours,2-3 hours,30-60 minutes,Yes,2,Yes,1
+16-20,Female,in a relationship,Yes,City,A Levels(HSC),more than 9 hours,2-3 hours,30-60 minutes,No,3,No,0
+21-25,Male,in a relationship,Yes,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Male,Single,No,Village,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,Yes,1,No,1
+21-25,Female,Single,Yes,City,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,0
+21-25,Female,Single,Yes,City,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,Single,Yes,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+21-25,Male,Single,No,City,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,Single,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+26+,Male,in a relationship,Yes,Village,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,2,No,1
+26+,Male,in a relationship,Yes,Village,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,2,No,1
+21-25,Male,Single,Yes,Village,Under Graduate,bellow 7 hours,2-3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,Single,No,City,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,Single,Yes,Village,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+21-25,Male,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+21-25,Female,in a relationship,Yes,City,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+21-25,Female,in a relationship,Yes,City,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,0
+21-25,Male,Single,Yes,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,3,No,0
+21-25,Female,in a relationship,Yes,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,in a relationship,Yes,Village,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,Yes,3,No,1
+21-25,Female,Single,Yes,City,Masters,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+26+,Male,in a relationship,No,Village,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,Yes,3,No,0
+21-25,Male,Single,No,Village,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,Yes,1,No,1
+16-20,Male,Single,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+16-20,Male,Single,Yes,City,A Levels(HSC),7-9 hours,2-3 hours,less than 30 minutes,No,3,No,0
+26+,Male,married,Yes,City,Graduated,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+26+,Female,married,Yes,City,Graduated,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+21-25,Female,married,Yes,Village,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+21-25,Female,married,Yes,City,Under Graduate,bellow 7 hours,2-3 hours,less than 30 minutes,No,1,No,1
+26+,Male,married,Yes,Village,Masters,bellow 7 hours,2-3 hours,less than 30 minutes,No,2,Yes,0
+26+,Male,married,No,City,Masters,bellow 7 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,in a relationship,Yes,Village,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,3,No,1
+21-25,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+26+,Male,in a relationship,Yes,Village,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,2,No,1
+21-25,Male,Single,No,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,3,No,1
+21-25,Male,in a relationship,Yes,City,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+26+,Male,Single,Yes,Village,Masters,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,3,No,1
+26+,Male,in a relationship,No,City,Under Graduate,bellow 7 hours,2-3 hours,less than 30 minutes,No,3,No,0
+21-25,Male,in a relationship,Yes,Village,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,2,No,1
+21-25,Male,in a relationship,Yes,Village,Graduated,7-9 hours,2-3 hours,less than 30 minutes,Yes,2,No,1
+16-20,Male,Single,Yes,Village,A Levels(HSC),bellow 7 hours,2-3 hours,30-60 minutes,No,3,No,0
+21-25,Male,Single,Yes,Village,O Levels(SSC),7-9 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+21-25,Female,in a relationship,Yes,Village,Under Graduate,bellow 7 hours,2-3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,Single,Yes,Village,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,Yes,1
+16-20,Male,Single,Yes,Village,A Levels(HSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,1,Yes,1
+26+,Female,married,Yes,Village,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+21-25,Male,in a relationship,Yes,Village,A Levels(HSC),7-9 hours,More than 3 hours,less than 30 minutes,Yes,3,No,0
+16-20,Male,Single,Yes,Village,A Levels(HSC),7-9 hours,More than 3 hours,less than 30 minutes,No,2,Yes,1
+21-25,Female,Single,Yes,City,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,Single,Yes,Village,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+26+,Male,in a relationship,Yes,Village,Graduated,7-9 hours,More than 3 hours,30-60 minutes,Yes,2,No,1
+16-20,Male,in a relationship,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,30-60 minutes,No,3,No,0
+21-25,Female,in a relationship,Yes,Village,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,married,No,City,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,1,No,1
+21-25,Female,Single,Yes,Village,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,in a relationship,Yes,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,1
+21-25,Male,Single,Yes,City,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,1,No,1
+21-25,Female,Single,Yes,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+21-25,Female,Single,Yes,Village,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Female,married,Yes,Village,A Levels(HSC),7-9 hours,More than 3 hours,less than 30 minutes,Yes,1,No,1
+21-25,Male,in a relationship,Yes,Village,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,2,No,1
+26+,Male,Single,Yes,City,Masters,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,2,No,1
+21-25,Male,Single,Yes,City,A Levels(HSC),bellow 7 hours,2-3 hours,less than 30 minutes,No,1,Yes,1
+21-25,Male,in a relationship,Yes,City,Under Graduate,more than 9 hours,2-3 hours,less than 30 minutes,Yes,1,No,1
+21-25,Female,in a relationship,Yes,City,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+26+,Female,in a relationship,No,Village,Graduated,7-9 hours,2-3 hours,less than 30 minutes,Yes,2,No,1
+26+,Female,Single,No,City,Masters,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+21-25,Female,in a relationship,No,Village,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,3,No,0
+21-25,Female,Single,No,Village,A Levels(HSC),bellow 7 hours,bellow 2 hours,30-60 minutes,No,2,No,0
+21-25,Female,in a relationship,No,City,Graduated,7-9 hours,bellow 2 hours,less than 30 minutes,Yes,2,Yes,1
+26+,Female,married,Yes,Village,Masters,7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+16-20,Female,Single,No,Village,Graduated,bellow 7 hours,2-3 hours,30-60 minutes,Yes,2,No,1
+21-25,Male,married,Yes,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,2,No,1
+16-20,Male,Single,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+26+,Female,in a relationship,No,City,Masters,7-9 hours,More than 3 hours,30-60 minutes,No,2,No,0
+21-25,Male,married,Yes,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,1,No,1
+16-20,Female,Single,Yes,Village,Under Graduate,7-9 hours,2-3 hours,more than 60 minutes,No,3,Yes,1
+26+,Male,Single,Yes,Village,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,2,No,1
+21-25,Female,Single,No,City,Graduated,more than 9 hours,bellow 2 hours,less than 30 minutes,No,1,Yes,1
+16-20,Male,married,No,City,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,3,No,0
+16-20,Female,in a relationship,Yes,City,A Levels(HSC),more than 9 hours,More than 3 hours,less than 30 minutes,Yes,1,No,1
+16-20,Male,in a relationship,Yes,City,Graduated,7-9 hours,2-3 hours,less than 30 minutes,Yes,2,No,1
+21-25,Female,in a relationship,Yes,City,Masters,7-9 hours,bellow 2 hours,less than 30 minutes,Yes,1,Yes,1
+21-25,Female,in a relationship,No,City,Under Graduate,bellow 7 hours,More than 3 hours,30-60 minutes,No,3,No,0
+16-20,Male,divorced,Yes,City,A Levels(HSC),bellow 7 hours,More than 3 hours,30-60 minutes,Yes,2,No,1
+21-25,Female,married,No,Village,Graduated,7-9 hours,2-3 hours,less than 30 minutes,Yes,2,No,1
+16-20,Female,married,Yes,Village,Under Graduate,bellow 7 hours,2-3 hours,less than 30 minutes,No,2,No,1
+11-15,Male,Single,No,City,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+16-20,Male,Single,No,City,A Levels(HSC),7-9 hours,More than 3 hours,less than 30 minutes,Yes,2,No,1
+26+,Male,in a relationship,No,City,A Levels(HSC),bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,1,No,1
+16-20,Male,married,No,Village,A Levels(HSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,1,No,1
+26+,Female,divorced,No,City,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,Yes,1,No,1
+16-20,Male,Single,Yes,Village,A Levels(HSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+16-20,Male,Single,No,City,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,3,Yes,1
+11-15,Male,Single,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,Yes,0
+21-25,Female,divorced,No,City,Graduated,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,1,No,1
+11-15,Male,Single,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,1,Yes,0
+26+,Female,in a relationship,Yes,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,1
+16-20,Female,Single,Yes,Village,A Levels(HSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,1,No,1
+21-25,Male,married,No,Village,A Levels(HSC),bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,1,Yes,1
+26+,Male,Single,No,Village,A Levels(HSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,1
+21-25,Male,married,Yes,City,Under Graduate,bellow 7 hours,2-3 hours,less than 30 minutes,Yes,1,No,1
+26+,Male,Single,Yes,Village,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+26+,Male,divorced,No,Village,A Levels(HSC),7-9 hours,bellow 2 hours,less than 30 minutes,Yes,1,Yes,1
+11-15,Male,Single,Yes,City,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,bellow 7 hours,More than 3 hours,30-60 minutes,No,2,No,1
+26+,Female,in a relationship,Yes,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+16-20,Female,in a relationship,No,Village,Under Graduate,bellow 7 hours,2-3 hours,less than 30 minutes,No,2,No,1
+11-15,Male,Single,Yes,Village,A Levels(HSC),7-9 hours,bellow 2 hours,less than 30 minutes,No,2,Yes,0
+16-20,Male,in a relationship,Yes,City,A Levels(HSC),bellow 7 hours,2-3 hours,less than 30 minutes,No,3,No,0
+21-25,Male,Single,Yes,Village,A Levels(HSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,1,No,0
+11-15,Female,in a relationship,Yes,Village,O Levels(SSC),bellow 7 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+16-20,Male,married,Yes,Village,O Levels(SSC),bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,1,No,1
+21-25,Male,Single,No,City,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Male,Single,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,1,Yes,1
+11-15,Female,in a relationship,No,City,O Levels(SSC),7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+26+,Female,divorced,No,City,Masters,more than 9 hours,More than 3 hours,less than 30 minutes,No,3,Yes,1
+16-20,Male,Single,Yes,City,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,2,No,1
+21-25,Female,in a relationship,Yes,Village,A Levels(HSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,2,No,1
+21-25,Female,divorced,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,in a relationship,No,City,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,in a relationship,No,Village,O Levels(SSC),bellow 7 hours,2-3 hours,less than 30 minutes,No,2,No,0
+21-25,Female,in a relationship,No,City,A Levels(HSC),more than 9 hours,bellow 2 hours,30-60 minutes,No,2,No,1
+21-25,Female,Single,No,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,2,Yes,1
+26+,Male,married,Yes,City,Masters,7-9 hours,bellow 2 hours,30-60 minutes,No,2,No,0
+26+,Female,married,Yes,City,A Levels(HSC),bellow 7 hours,bellow 2 hours,30-60 minutes,No,2,No,0
+26+,Male,married,Yes,Village,O Levels(SSC),bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,2,No,0
+26+,Female,married,Yes,City,O Levels(SSC),7-9 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+26+,Female,married,Yes,City,A Levels(HSC),7-9 hours,2-3 hours,less than 30 minutes,No,2,No,0
+26+,Male,married,No,City,Masters,7-9 hours,2-3 hours,30-60 minutes,Yes,2,No,0
+21-25,Female,in a relationship,No,Village,Under Graduate,bellow 7 hours,2-3 hours,less than 30 minutes,No,2,No,0
+21-25,Female,in a relationship,No,Village,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+21-25,Female,in a relationship,No,Village,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,3,No,0
+16-20,Female,in a relationship,Yes,City,A Levels(HSC),7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+11-15,Male,Single,Yes,City,O Levels(SSC),bellow 7 hours,2-3 hours,less than 30 minutes,No,3,No,0
+11-15,Female,in a relationship,Yes,City,O Levels(SSC),7-9 hours,2-3 hours,less than 30 minutes,No,3,No,0
+26+,Male,Single,No,Village,Masters,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,1,Yes,1
+21-25,Male,married,Yes,Village,A Levels(HSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,1
+16-20,Male,in a relationship,Yes,Village,A Levels(HSC),7-9 hours,More than 3 hours,30-60 minutes,No,1,No,1
+11-15,Male,in a relationship,Yes,Village,O Levels(SSC),7-9 hours,bellow 2 hours,less than 30 minutes,Yes,3,No,0
+11-15,Female,Single,Yes,Village,O Levels(SSC),7-9 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+16-20,Male,Single,Yes,Village,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+21-25,Female,in a relationship,Yes,Village,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,0
+16-20,Female,Single,Yes,Village,Under Graduate,7-9 hours,bellow 2 hours,30-60 minutes,No,2,No,0
+21-25,Male,in a relationship,No,City,Graduated,7-9 hours,2-3 hours,more than 60 minutes,No,2,No,0
+16-20,Female,Single,No,City,Under Graduate,bellow 7 hours,2-3 hours,more than 60 minutes,No,2,No,0
+21-25,Female,in a relationship,Yes,City,Graduated,more than 9 hours,2-3 hours,30-60 minutes,No,1,No,0
+16-20,Female,married,Yes,Village,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,1,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,3,No,0
+26+,Male,in a relationship,No,City,Graduated,7-9 hours,2-3 hours,30-60 minutes,Yes,2,No,1
+21-25,Female,married,Yes,City,Graduated,7-9 hours,2-3 hours,30-60 minutes,No,3,No,0
+21-25,Female,in a relationship,Yes,City,Graduated,7-9 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+16-20,Male,Single,Yes,Village,Under Graduate,7-9 hours,bellow 2 hours,less than 30 minutes,Yes,3,Yes,1
+16-20,Female,married,No,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+21-25,Female,in a relationship,Yes,Village,Graduated,more than 9 hours,2-3 hours,30-60 minutes,No,3,Yes,1
+bellow 11,Male,Single,Yes,City,O Levels(SSC),7-9 hours,2-3 hours,more than 60 minutes,No,1,Yes,0
+21-25,Male,Single,Yes,Village,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,2,No,0
+21-25,Female,married,Yes,Village,Under Graduate,7-9 hours,2-3 hours,more than 60 minutes,No,1,Yes,1
+26+,Male,married,No,City,Graduated,bellow 7 hours,bellow 2 hours,more than 60 minutes,Yes,2,Yes,0
+16-20,Female,in a relationship,Yes,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+21-25,Others,divorced,Yes,Village,O Levels(SSC),7-9 hours,More than 3 hours,less than 30 minutes,No,1,Yes,0
+26+,Male,divorced,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,Yes,3,Yes,1
+16-20,Female,in a relationship,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,2,Yes,1
+26+,Male,divorced,No,City,Graduated,bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,2,No,1
+21-25,Female,married,Yes,City,Masters,bellow 7 hours,bellow 2 hours,more than 60 minutes,No,3,No,0
+16-20,Female,Single,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,1,Yes,1
+26+,Female,divorced,Yes,Village,Under Graduate,bellow 7 hours,bellow 2 hours,30-60 minutes,No,1,Yes,1
+26+,Female,in a relationship,Yes,City,Graduated,more than 9 hours,2-3 hours,more than 60 minutes,No,3,No,0
+26+,Male,married,Yes,City,Masters,bellow 7 hours,2-3 hours,less than 30 minutes,No,3,No,0
+26+,Female,married,Yes,City,Graduated,bellow 7 hours,2-3 hours,30-60 minutes,No,3,No,0
+21-25,Others,Single,No,City,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,1,Yes,1
+21-25,Female,married,Yes,Village,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,No,2,Yes,0
+21-25,Female,in a relationship,Yes,City,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,No,3,No,0
+26+,Male,divorced,Yes,City,Masters,7-9 hours,2-3 hours,more than 60 minutes,No,2,Yes,0
+bellow 11,Male,Single,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+21-25,Female,married,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+21-25,Female,in a relationship,Yes,City,Graduated,more than 9 hours,2-3 hours,30-60 minutes,No,3,No,0
+26+,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,1,Yes,1
+16-20,Female,married,No,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,1
+21-25,Female,Single,Yes,Village,O Levels(SSC),more than 9 hours,More than 3 hours,30-60 minutes,No,3,Yes,1
+16-20,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+16-20,Male,married,No,Village,Graduated,7-9 hours,More than 3 hours,30-60 minutes,No,2,No,0
+21-25,Female,in a relationship,Yes,Village,Graduated,7-9 hours,More than 3 hours,less than 30 minutes,Yes,2,Yes,1
+16-20,Female,Single,Yes,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+26+,Others,divorced,No,Village,Masters,more than 9 hours,More than 3 hours,more than 60 minutes,Yes,3,Yes,0
+16-20,Female,in a relationship,Yes,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,1,No,1
+16-20,Female,Single,Yes,City,A Levels(HSC),bellow 7 hours,2-3 hours,less than 30 minutes,No,3,No,0
+21-25,Female,in a relationship,Yes,City,A Levels(HSC),7-9 hours,More than 3 hours,less than 30 minutes,Yes,2,Yes,0
+16-20,Female,in a relationship,Yes,City,Under Graduate,bellow 7 hours,2-3 hours,30-60 minutes,No,2,Yes,1
+16-20,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+21-25,Male,in a relationship,Yes,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,2,No,1
+16-20,Female,in a relationship,Yes,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,Yes,1
+16-20,Female,Single,Yes,Village,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+16-20,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+11-15,Male,Single,Yes,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+11-15,Male,Single,Yes,Village,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+16-20,Female,in a relationship,Yes,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+16-20,Male,in a relationship,No,City,Under Graduate,more than 9 hours,More than 3 hours,more than 60 minutes,Yes,3,No,0
+21-25,Female,in a relationship,No,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+11-15,Female,Single,Yes,Village,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+11-15,Male,Single,Yes,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+16-20,Female,in a relationship,Yes,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,1
+21-25,Female,married,Yes,Village,O Levels(SSC),more than 9 hours,More than 3 hours,less than 30 minutes,No,3,Yes,0
+26+,Male,married,Yes,Village,Masters,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,1,No,0
+21-25,Male,Single,Yes,City,Under Graduate,bellow 7 hours,2-3 hours,more than 60 minutes,Yes,2,Yes,0
+21-25,Female,in a relationship,No,City,A Levels(HSC),more than 9 hours,2-3 hours,30-60 minutes,No,3,Yes,1
+21-25,Male,in a relationship,Yes,Village,Graduated,bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,3,No,1
+16-20,Male,in a relationship,No,City,A Levels(HSC),7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Male,married,Yes,Village,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,3,Yes,0
+26+,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,3,Yes,1
+16-20,Female,in a relationship,Yes,Village,O Levels(SSC),7-9 hours,2-3 hours,more than 60 minutes,No,1,No,0
+26+,Male,married,No,Village,Masters,7-9 hours,2-3 hours,less than 30 minutes,Yes,3,Yes,1
+21-25,Female,in a relationship,No,City,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,2,No,0
+16-20,Female,divorced,No,Village,Under Graduate,7-9 hours,More than 3 hours,more than 60 minutes,No,2,No,0
+11-15,Female,Single,Yes,Village,O Levels(SSC),more than 9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Male,Single,No,City,Graduated,7-9 hours,2-3 hours,more than 60 minutes,Yes,1,No,0
+21-25,Female,divorced,No,Village,Graduated,7-9 hours,2-3 hours,less than 30 minutes,Yes,3,Yes,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+26+,Male,Single,No,Village,Graduated,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,1,Yes,1
+21-25,Female,in a relationship,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,1,Yes,1
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+16-20,Female,married,No,City,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,3,No,1
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+16-20,Others,Single,Yes,Village,A Levels(HSC),more than 9 hours,bellow 2 hours,30-60 minutes,No,3,Yes,1
+26+,Male,in a relationship,Yes,Village,Graduated,more than 9 hours,More than 3 hours,less than 30 minutes,Yes,1,Yes,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+26+,Female,married,Yes,City,Under Graduate,bellow 7 hours,bellow 2 hours,30-60 minutes,No,3,No,0
+16-20,Female,married,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,1
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,married,Yes,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,3,Yes,1
+26+,Female,in a relationship,No,Village,Graduated,7-9 hours,More than 3 hours,more than 60 minutes,No,2,Yes,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Male,Single,No,City,Under Graduate,bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,3,No,0
+21-25,Female,Single,Yes,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,3,No,0
+11-15,Female,in a relationship,Yes,Village,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Female,in a relationship,No,City,Graduated,more than 9 hours,2-3 hours,less than 30 minutes,No,1,No,1
+21-25,Female,in a relationship,Yes,City,Graduated,more than 9 hours,More than 3 hours,30-60 minutes,No,1,No,0
+21-25,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+21-25,Female,in a relationship,No,City,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+21-25,Female,in a relationship,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,1,No,0
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+21-25,Female,Single,No,City,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,Single,No,City,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,divorced,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Female,in a relationship,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+21-25,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,in a relationship,No,City,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,Single,No,City,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,No,1,No,1
+21-25,Female,married,No,Village,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,3,Yes,0
+16-20,Male,Single,Yes,Village,O Levels(SSC),7-9 hours,bellow 2 hours,less than 30 minutes,No,3,No,1
+21-25,Female,in a relationship,Yes,City,Graduated,bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+21-25,Female,married,Yes,Village,Under Graduate,7-9 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+21-25,Female,in a relationship,No,City,Graduated,bellow 7 hours,More than 3 hours,30-60 minutes,No,2,No,0
+26+,Male,married,Yes,City,Masters,bellow 7 hours,bellow 2 hours,30-60 minutes,Yes,3,No,1
+21-25,Female,married,No,City,Graduated,more than 9 hours,2-3 hours,30-60 minutes,No,3,No,0
+21-25,Male,in a relationship,Yes,Village,Graduated,7-9 hours,bellow 2 hours,less than 30 minutes,Yes,2,No,1
+21-25,Others,Single,No,City,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,No,1,Yes,1
+bellow 11,Male,Single,Yes,Village,O Levels(SSC),more than 9 hours,bellow 2 hours,less than 30 minutes,No,3,Yes,1
+bellow 11,Female,Single,Yes,Village,O Levels(SSC),7-9 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+26+,Male,divorced,No,City,Masters,bellow 7 hours,More than 3 hours,30-60 minutes,Yes,2,No,1
+26+,Female,divorced,No,City,Graduated,bellow 7 hours,2-3 hours,less than 30 minutes,No,1,No,1
+11-15,Male,Single,Yes,Village,O Levels(SSC),more than 9 hours,bellow 2 hours,less than 30 minutes,No,2,No,1
+11-15,Male,in a relationship,Yes,Village,O Levels(SSC),7-9 hours,More than 3 hours,less than 30 minutes,Yes,3,No,0
+16-20,Female,in a relationship,Yes,City,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+21-25,Male,in a relationship,No,Village,Under Graduate,7-9 hours,bellow 2 hours,30-60 minutes,No,3,Yes,1
+11-15,Female,in a relationship,Yes,Village,O Levels(SSC),7-9 hours,2-3 hours,less than 30 minutes,No,2,No,0
+26+,Male,married,No,City,Masters,more than 9 hours,More than 3 hours,more than 60 minutes,Yes,3,Yes,1
+bellow 11,Female,Single,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+26+,Female,divorced,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,2,Yes,1
+21-25,Others,Single,No,City,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,2,Yes,1
+26+,Others,Single,No,City,O Levels(SSC),7-9 hours,2-3 hours,less than 30 minutes,Yes,1,Yes,1
+26+,Female,married,No,Village,O Levels(SSC),7-9 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+16-20,Female,married,Yes,Village,O Levels(SSC),7-9 hours,bellow 2 hours,less than 30 minutes,No,1,No,0
+21-25,Female,married,Yes,Village,O Levels(SSC),more than 9 hours,More than 3 hours,less than 30 minutes,Yes,3,No,0
+16-20,Female,married,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,1,No,0
+26+,Female,divorced,No,City,O Levels(SSC),bellow 7 hours,2-3 hours,less than 30 minutes,No,2,Yes,0
+16-20,Male,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,Yes,3,No,0
+21-25,Female,in a relationship,No,City,Under Graduate,more than 9 hours,2-3 hours,more than 60 minutes,No,3,No,0
+21-25,Female,Single,No,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,Yes,City,Graduated,7-9 hours,2-3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,Yes,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,3,No,1
+21-25,Female,Single,No,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,3,Yes,1
+21-25,Female,Single,No,City,Graduated,7-9 hours,2-3 hours,more than 60 minutes,No,3,No,1
+21-25,Female,Single,No,Village,Under Graduate,7-9 hours,2-3 hours,more than 60 minutes,No,3,No,0
+21-25,Female,in a relationship,No,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,3,No,0
+21-25,Female,Single,No,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,3,No,0
+21-25,Female,in a relationship,No,City,Under Graduate,7-9 hours,bellow 2 hours,30-60 minutes,No,2,Yes,1
+21-25,Female,married,No,City,Graduated,7-9 hours,2-3 hours,less than 30 minutes,No,2,Yes,0
+21-25,Female,married,Yes,City,Graduated,7-9 hours,2-3 hours,30-60 minutes,No,2,Yes,1
+21-25,Female,Single,Yes,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,Yes,3,No,0
+21-25,Female,Single,Yes,Village,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,2,No,0
+21-25,Female,Single,No,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+21-25,Female,Single,No,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+21-25,Female,in a relationship,No,Village,Graduated,more than 9 hours,2-3 hours,30-60 minutes,No,2,No,0
+21-25,Female,married,No,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,2,Yes,0
+16-20,Female,in a relationship,No,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,Yes,0
+21-25,Female,Single,Yes,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,Yes,2,No,0
+21-25,Female,married,No,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+21-25,Female,married,No,Village,Graduated,7-9 hours,More than 3 hours,30-60 minutes,No,2,No,0
+16-20,Female,Single,Yes,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,Yes,3,No,1
+21-25,Female,in a relationship,Yes,Village,Graduated,7-9 hours,2-3 hours,less than 30 minutes,No,3,No,0
+21-25,Female,in a relationship,Yes,Village,Graduated,7-9 hours,2-3 hours,30-60 minutes,No,1,No,0
+21-25,Female,married,No,Village,Graduated,7-9 hours,2-3 hours,30-60 minutes,Yes,3,No,0
+21-25,Female,married,No,City,Graduated,7-9 hours,2-3 hours,more than 60 minutes,No,3,No,0
+26+,Female,divorced,No,City,A Levels(HSC),bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,1,No,1
+26+,Female,divorced,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,1,Yes,1
+11-15,Male,Single,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,3,No,0
+16-20,Female,in a relationship,No,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,1
+16-20,Female,married,Yes,City,Under Graduate,7-9 hours,bellow 2 hours,30-60 minutes,Yes,2,No,0
+21-25,Female,married,No,City,Graduated,more than 9 hours,More than 3 hours,more than 60 minutes,No,2,No,1
+26+,Male,married,Yes,City,Masters,7-9 hours,bellow 2 hours,30-60 minutes,No,3,No,0
+21-25,Female,married,Yes,Village,O Levels(SSC),7-9 hours,bellow 2 hours,less than 30 minutes,No,2,No,0
+21-25,Female,married,No,Village,O Levels(SSC),bellow 7 hours,More than 3 hours,30-60 minutes,No,2,No,1
+26+,Female,in a relationship,No,City,Graduated,7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+16-20,Male,married,No,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+26+,Male,in a relationship,Yes,Village,Under Graduate,more than 9 hours,bellow 2 hours,30-60 minutes,Yes,2,No,0
+21-25,Female,married,No,Village,Under Graduate,more than 9 hours,More than 3 hours,more than 60 minutes,No,2,Yes,1
+21-25,Female,in a relationship,Yes,Village,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+21-25,Female,married,Yes,Village,O Levels(SSC),7-9 hours,More than 3 hours,30-60 minutes,No,2,No,0
+16-20,Female,Single,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+21-25,Female,in a relationship,Yes,City,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,No,3,No,1
+21-25,Male,Single,No,City,Graduated,bellow 7 hours,2-3 hours,30-60 minutes,Yes,1,Yes,1
+11-15,Female,in a relationship,Yes,City,O Levels(SSC),more than 9 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+21-25,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,3,Yes,0
+21-25,Male,Single,Yes,Village,Masters,7-9 hours,2-3 hours,30-60 minutes,No,3,No,0
+16-20,Female,in a relationship,No,Village,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,Yes,1,No,1
+21-25,Others,married,No,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+16-20,Female,in a relationship,Yes,Village,A Levels(HSC),7-9 hours,2-3 hours,less than 30 minutes,Yes,1,No,1
+16-20,Female,married,Yes,City,A Levels(HSC),more than 9 hours,bellow 2 hours,less than 30 minutes,No,3,No,0
+16-20,Female,married,No,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,1
+11-15,Female,Single,Yes,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,3,Yes,1
+21-25,Female,divorced,No,Village,A Levels(HSC),bellow 7 hours,More than 3 hours,more than 60 minutes,No,2,No,0
+16-20,Male,married,Yes,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,3,No,0
+21-25,Female,divorced,No,City,A Levels(HSC),more than 9 hours,bellow 2 hours,less than 30 minutes,Yes,2,Yes,0
+21-25,Male,married,No,City,A Levels(HSC),bellow 7 hours,bellow 2 hours,30-60 minutes,Yes,2,No,0
+16-20,Male,in a relationship,No,City,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,No,1,No,1
+21-25,Female,married,Yes,Village,Under Graduate,more than 9 hours,2-3 hours,30-60 minutes,Yes,2,No,0
+21-25,Others,married,Yes,City,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,Yes,3,Yes,1
+21-25,Female,Single,Yes,Village,Under Graduate,7-9 hours,2-3 hours,more than 60 minutes,No,1,Yes,0
+21-25,Female,married,No,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,3,No,1
+11-15,Male,in a relationship,Yes,Village,O Levels(SSC),bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,3,No,1
+16-20,Female,in a relationship,Yes,City,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,No,2,No,1
+21-25,Female,married,No,City,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,No,2,No,1
+16-20,Female,in a relationship,No,City,A Levels(HSC),more than 9 hours,bellow 2 hours,30-60 minutes,Yes,3,No,1
+26+,Female,married,Yes,Village,Graduated,more than 9 hours,More than 3 hours,more than 60 minutes,No,2,No,1
+26+,Female,married,No,City,Masters,7-9 hours,2-3 hours,less than 30 minutes,Yes,1,No,1
+21-25,Male,in a relationship,No,City,Graduated,7-9 hours,2-3 hours,more than 60 minutes,No,3,No,1
+21-25,Male,married,No,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,Yes,2,No,1
+21-25,Female,married,Yes,Village,Graduated,more than 9 hours,2-3 hours,30-60 minutes,No,2,No,0
+16-20,Female,married,No,City,Under Graduate,7-9 hours,bellow 2 hours,less than 30 minutes,No,2,No,1
+11-15,Female,in a relationship,Yes,Village,A Levels(HSC),more than 9 hours,2-3 hours,30-60 minutes,No,2,No,1
+16-20,Male,married,No,City,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,No,1,Yes,1
+21-25,Female,married,No,Village,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,Yes,2,No,1
+16-20,Female,in a relationship,No,City,Under Graduate,bellow 7 hours,2-3 hours,30-60 minutes,Yes,2,Yes,1
+16-20,Female,in a relationship,Yes,Village,A Levels(HSC),7-9 hours,2-3 hours,less than 30 minutes,No,2,No,1
+26+,Male,married,Yes,City,Under Graduate,7-9 hours,bellow 2 hours,more than 60 minutes,No,3,No,0
+16-20,Female,married,No,Village,Under Graduate,7-9 hours,2-3 hours,more than 60 minutes,No,1,Yes,1
+16-20,Female,divorced,No,Village,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,Yes,2,No,1
+16-20,Female,married,Yes,City,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,No,2,No,1
+21-25,Female,Single,No,Village,Under Graduate,7-9 hours,2-3 hours,less than 30 minutes,No,2,Yes,1
+11-15,Male,married,No,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,1
+16-20,Female,in a relationship,Yes,City,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,1,No,1
+26+,Male,Single,No,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,Yes,2,No,0
+26+,Male,Single,No,City,Masters,7-9 hours,2-3 hours,less than 30 minutes,Yes,3,No,1
+11-15,Female,married,No,Village,Graduated,7-9 hours,More than 3 hours,30-60 minutes,Yes,3,Yes,0
+11-15,Female,in a relationship,Yes,Village,A Levels(HSC),bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,1,No,1
+16-20,Male,Single,Yes,Village,A Levels(HSC),bellow 7 hours,More than 3 hours,30-60 minutes,No,2,No,1
+16-20,Female,in a relationship,No,City,A Levels(HSC),bellow 7 hours,More than 3 hours,less than 30 minutes,Yes,2,No,1
+21-25,Female,Single,Yes,Village,Under Graduate,bellow 7 hours,More than 3 hours,30-60 minutes,Yes,2,No,1
+21-25,Female,Single,No,Village,A Levels(HSC),7-9 hours,More than 3 hours,30-60 minutes,No,2,No,1
+21-25,Male,in a relationship,Yes,City,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,No,2,No,0
+21-25,Male,Single,No,City,A Levels(HSC),7-9 hours,bellow 2 hours,30-60 minutes,No,2,No,1
+21-25,Male,Single,Yes,Village,Under Graduate,more than 9 hours,More than 3 hours,less than 30 minutes,No,3,No,1
+21-25,Male,Single,Yes,Village,Under Graduate,bellow 7 hours,bellow 2 hours,less than 30 minutes,Yes,1,No,1
+21-25,Male,Single,Yes,Village,A Levels(HSC),bellow 7 hours,bellow 2 hours,more than 60 minutes,Yes,2,No,1
+16-20,Male,Single,No,Village,Under Graduate,7-9 hours,bellow 2 hours,30-60 minutes,Yes,2,Yes,0
+21-25,Male,married,No,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,Yes,2,No,1
+21-25,Female,Single,No,Village,A Levels(HSC),7-9 hours,2-3 hours,more than 60 minutes,Yes,2,No,0
+21-25,Male,in a relationship,No,City,Graduated,7-9 hours,2-3 hours,more than 60 minutes,Yes,2,Yes,0
+21-25,Male,in a relationship,No,Village,O Levels(SSC),more than 9 hours,More than 3 hours,30-60 minutes,No,2,No,1
+16-20,Male,Single,Yes,Village,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,Single,Yes,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,Yes,2,Yes,1
+21-25,Male,Single,Yes,Village,O Levels(SSC),bellow 7 hours,2-3 hours,more than 60 minutes,No,2,No,0
+26+,Others,Single,No,City,Under Graduate,7-9 hours,bellow 2 hours,more than 60 minutes,Yes,3,No,1
+21-25,Male,married,No,City,Under Graduate,7-9 hours,More than 3 hours,less than 30 minutes,Yes,1,No,1
+21-25,Female,in a relationship,Yes,Village,A Levels(HSC),7-9 hours,2-3 hours,more than 60 minutes,Yes,2,No,1
+21-25,Female,in a relationship,No,City,A Levels(HSC),7-9 hours,More than 3 hours,30-60 minutes,No,2,No,1
+21-25,Female,in a relationship,No,City,A Levels(HSC),more than 9 hours,2-3 hours,more than 60 minutes,No,2,No,1
+21-25,Female,Single,Yes,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,1
+16-20,Male,Single,Yes,City,Under Graduate,7-9 hours,2-3 hours,more than 60 minutes,Yes,2,No,1
+21-25,Male,Single,No,Village,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,Yes,2,No,1
+16-20,Female,in a relationship,No,City,A Levels(HSC),7-9 hours,2-3 hours,less than 30 minutes,No,1,No,0
+16-20,Male,in a relationship,No,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,Yes,2,No,1
+21-25,Female,in a relationship,Yes,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+16-20,Male,in a relationship,No,Village,A Levels(HSC),more than 9 hours,More than 3 hours,less than 30 minutes,No,2,No,1
+21-25,Female,in a relationship,No,City,A Levels(HSC),more than 9 hours,2-3 hours,30-60 minutes,Yes,2,No,1
+11-15,Female,Single,Yes,City,O Levels(SSC),more than 9 hours,More than 3 hours,30-60 minutes,No,2,No,1
+26+,Female,divorced,No,City,Masters,more than 9 hours,More than 3 hours,less than 30 minutes,Yes,2,Yes,1
+21-25,Male,married,Yes,City,Under Graduate,7-9 hours,More than 3 hours,30-60 minutes,No,2,No,1
+21-25,Male,Single,No,City,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,Yes,2,No,1
+16-20,Female,married,Yes,Village,A Levels(HSC),7-9 hours,More than 3 hours,30-60 minutes,No,2,No,0
+16-20,Male,Single,No,City,A Levels(HSC),7-9 hours,More than 3 hours,30-60 minutes,Yes,2,No,1
+21-25,Others,married,Yes,City,Under Graduate,7-9 hours,bellow 2 hours,less than 30 minutes,Yes,2,No,0
+21-25,Male,Single,No,Village,Under Graduate,more than 9 hours,2-3 hours,30-60 minutes,No,2,Yes,1
+21-25,Female,married,No,City,A Levels(HSC),7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+21-25,Female,in a relationship,Yes,Village,Under Graduate,7-9 hours,2-3 hours,30-60 minutes,No,2,No,0
+21-25,Male,Single,No,City,Under Graduate,7-9 hours,More than 3 hours,more than 60 minutes,No,2,No,1
